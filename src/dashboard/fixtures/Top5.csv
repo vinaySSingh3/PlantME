@@ -1,0 +1,6 @@
+model,id,state_no,crop_name,yieldd
+newsapp.showAI,1,96,GROUNDNUT_YIELD,1105.15
+newsapp.showAI,2,96,CHICKPEA_YIELD,978.3839
+newsapp.showAI,3,96,MAIZE_YIELD,940
+newsapp.showAI,4,96,FINGER_MILLET_YIELD,739.2224
+newsapp.showAI,5,96,MINOR_PULSES_YIELD,594.5032

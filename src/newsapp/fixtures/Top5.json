@@ -1,0 +1,877 @@
+[
+    {
+        "model":  "newsapp.showAI",
+        "id":  "1",
+        "fields":{"state_no":  "96",
+        "crop_name":  "GROUNDNUT YIELD",
+        "yieldd":  "1305.15"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "2",
+        "fields":{"state_no":  "96",
+        "crop_name":  "CHICKPEA YIELD",
+        "yieldd":  "978.3839"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "3",
+        "fields":{"state_no":  "96",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "940"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "4",
+        "fields":{"state_no":  "96",
+        "crop_name":  "FINGER MILLET YIELD",
+        "yieldd":  "739.2224"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "5",
+        "fields":{"state_no":  "96",
+        "crop_name":  "MINOR PULSES YIELD",
+        "yieldd":  "594.5032"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "6",
+        "fields":{"state_no":  "97",
+        "crop_name":  "GROUNDNUT YIELD",
+        "yieldd":  "2515.6663"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "7",
+        "fields":{"state_no":  "97",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "1617"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "8",
+        "fields":{"state_no":  "97",
+        "crop_name":  "OILSEEDS YIELD",
+        "yieldd":  "1443.3385"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "9",
+        "fields":{"state_no":  "97",
+        "crop_name":  "FINGER MILLET YIELD",
+        "yieldd":  "845.8276"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "10",
+        "fields":{"state_no":  "97",
+        "crop_name":  "MINOR PULSES YIELD",
+        "yieldd":  "570.9337"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "11",
+        "fields":{"state_no":  "98",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "2358"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "12",
+        "fields":{"state_no":  "98",
+        "crop_name":  "GROUNDNUT YIELD",
+        "yieldd":  "1625.5591"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "13",
+        "fields":{"state_no":  "98",
+        "crop_name":  "FINGER MILLET YIELD",
+        "yieldd":  "1372.1725"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "14",
+        "fields":{"state_no":  "98",
+        "crop_name":  "OILSEEDS YIELD",
+        "yieldd":  "1275.7925"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "15",
+        "fields":{"state_no":  "98",
+        "crop_name":  "SUGARCANE YIELD",
+        "yieldd":  "983.151653"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "16",
+        "fields":{"state_no":  "99",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "3046.1514"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "17",
+        "fields":{"state_no":  "99",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "1694.099"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "18",
+        "fields":{"state_no":  "99",
+        "crop_name":  "SOYABEAN YIELD",
+        "yieldd":  "1425.8121"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "19",
+        "fields":{"state_no":  "99",
+        "crop_name":  "OILSEEDS YIELD",
+        "yieldd":  "1329.2556"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "20",
+        "fields":{"state_no":  "99",
+        "crop_name":  "PEARL MILLET YIELD",
+        "yieldd":  "1024.2851"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "21",
+        "fields":{"state_no":  "100",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "2329.2042"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "22",
+        "fields":{"state_no":  "100",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "2019.4118"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "23",
+        "fields":{"state_no":  "100",
+        "crop_name":  "KharifSorghum YIELD",
+        "yieldd":  "1580.646"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "24",
+        "fields":{"state_no":  "100",
+        "crop_name":  "FINGER MILLET YIELD",
+        "yieldd":  "1405.3937"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "25",
+        "fields":{"state_no":  "100",
+        "crop_name":  "SOYABEAN YIELD",
+        "yieldd":  "1376.0501"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "26",
+        "fields":{"state_no":  "101",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "3156.8233"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "27",
+        "fields":{"state_no":  "101",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "2222.2066"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "28",
+        "fields":{"state_no":  "101",
+        "crop_name":  "KharifSorghum YIELD",
+        "yieldd":  "2138.3086"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "29",
+        "fields":{"state_no":  "101",
+        "crop_name":  "SOYABEAN YIELD",
+        "yieldd":  "1824.0351"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "30",
+        "fields":{"state_no":  "101",
+        "crop_name":  "OILSEEDS YIELD",
+        "yieldd":  "1529.3913"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "31",
+        "fields":{"state_no":  "102",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "2605.2317"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "32",
+        "fields":{"state_no":  "102",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "1631.6691"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "33",
+        "fields":{"state_no":  "102",
+        "crop_name":  "Rice YIELD",
+        "yieldd":  "1628.0962"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "34",
+        "fields":{"state_no":  "102",
+        "crop_name":  "SOYABEAN YIELD",
+        "yieldd":  "1518.6514"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "35",
+        "fields":{"state_no":  "102",
+        "crop_name":  "FINGER MILLET YIELD",
+        "yieldd":  "1199.5401"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "36",
+        "fields":{"state_no":  "103",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "2875.9046"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "37",
+        "fields":{"state_no":  "103",
+        "crop_name":  "SOYABEAN YIELD",
+        "yieldd":  "2445.5745"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "38",
+        "fields":{"state_no":  "103",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "1888.7594"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "39",
+        "fields":{"state_no":  "103",
+        "crop_name":  "Rice YIELD",
+        "yieldd":  "1693.6999"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "40",
+        "fields":{"state_no":  "103",
+        "crop_name":  "FINGER MILLET YIELD",
+        "yieldd":  "1204.3567"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "41",
+        "fields":{"state_no":  "104",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "2309.1059"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "42",
+        "fields":{"state_no":  "104",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "1906.9069"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "43",
+        "fields":{"state_no":  "104",
+        "crop_name":  "KharifSorghum YIELD",
+        "yieldd":  "1696.2966"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "44",
+        "fields":{"state_no":  "104",
+        "crop_name":  "Rice YIELD",
+        "yieldd":  "1691.2587"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "45",
+        "fields":{"state_no":  "104",
+        "crop_name":  "SOYABEAN YIELD",
+        "yieldd":  "1575.4818"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "46",
+        "fields":{"state_no":  "105",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "2398.1645"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "47",
+        "fields":{"state_no":  "105",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "2039.4129"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "48",
+        "fields":{"state_no":  "105",
+        "crop_name":  "Rice YIELD",
+        "yieldd":  "1935.6354"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "49",
+        "fields":{"state_no":  "105",
+        "crop_name":  "SOYABEAN YIELD",
+        "yieldd":  "1712.097"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "50",
+        "fields":{"state_no":  "105",
+        "crop_name":  "OILSEEDS YIELD",
+        "yieldd":  "1282.2844"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "51",
+        "fields":{"state_no":  "106",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "2253.8298"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "52",
+        "fields":{"state_no":  "106",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "1357.8324"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "53",
+        "fields":{"state_no":  "106",
+        "crop_name":  "SOYABEAN YIELD",
+        "yieldd":  "1173.4478"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "54",
+        "fields":{"state_no":  "106",
+        "crop_name":  "GROUNDNUT YIELD",
+        "yieldd":  "1150.1323"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "55",
+        "fields":{"state_no":  "106",
+        "crop_name":  "OILSEEDS YIELD",
+        "yieldd":  "1030.6428"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "56",
+        "fields":{"state_no":  "107",
+        "crop_name":  "Rice YIELD",
+        "yieldd":  "2708.7159"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "57",
+        "fields":{"state_no":  "107",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "2442.8239"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "58",
+        "fields":{"state_no":  "107",
+        "crop_name":  "SOYABEAN YIELD",
+        "yieldd":  "2267.2818"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "59",
+        "fields":{"state_no":  "107",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "2062.7181"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "60",
+        "fields":{"state_no":  "107",
+        "crop_name":  "KharifSorghum YIELD",
+        "yieldd":  "2049.6494"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "61",
+        "fields":{"state_no":  "108",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "2579.7356"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "62",
+        "fields":{"state_no":  "108",
+        "crop_name":  "SAFFLOWER YIELD",
+        "yieldd":  "1640.4136"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "63",
+        "fields":{"state_no":  "108",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "1639.0618"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "64",
+        "fields":{"state_no":  "108",
+        "crop_name":  "KharifSorghum YIELD",
+        "yieldd":  "1395.7272"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "65",
+        "fields":{"state_no":  "108",
+        "crop_name":  "SOYABEAN YIELD",
+        "yieldd":  "1200.266"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "66",
+        "fields":{"state_no":  "109",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "1331.5928"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "67",
+        "fields":{"state_no":  "109",
+        "crop_name":  "SOYABEAN YIELD",
+        "yieldd":  "1312.2299"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "68",
+        "fields":{"state_no":  "109",
+        "crop_name":  "CHICKPEA YIELD",
+        "yieldd":  "1296.1645"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "69",
+        "fields":{"state_no":  "109",
+        "crop_name":  "KharifSorghum YIELD",
+        "yieldd":  "1141.6636"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "70",
+        "fields":{"state_no":  "109",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "1129.5812"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "71",
+        "fields":{"state_no":  "110",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "1526.5777"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "72",
+        "fields":{"state_no":  "110",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "1024.9176"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "73",
+        "fields":{"state_no":  "110",
+        "crop_name":  "KharifSorghum YIELD",
+        "yieldd":  "920.1041"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "74",
+        "fields":{"state_no":  "110",
+        "crop_name":  "GROUNDNUT YIELD",
+        "yieldd":  "892.6159"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "75",
+        "fields":{"state_no":  "110",
+        "crop_name":  "PEARL MILLET YIELD",
+        "yieldd":  "859.2157"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "76",
+        "fields":{"state_no":  "111",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "1448.6276"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "77",
+        "fields":{"state_no":  "111",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "1193.4209"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "78",
+        "fields":{"state_no":  "111",
+        "crop_name":  "SOYABEAN YIELD",
+        "yieldd":  "1141.6568"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "79",
+        "fields":{"state_no":  "111",
+        "crop_name":  "KharifSorghum YIELD",
+        "yieldd":  "1090.4878"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "80",
+        "fields":{"state_no":  "111",
+        "crop_name":  "GROUNDNUT YIELD",
+        "yieldd":  "1079.1663"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "81",
+        "fields":{"state_no":  "112",
+        "crop_name":  "SOYABEAN YIELD",
+        "yieldd":  "1698.8507"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "82",
+        "fields":{"state_no":  "112",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "1504.0699"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "83",
+        "fields":{"state_no":  "112",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "1244.2197"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "84",
+        "fields":{"state_no":  "112",
+        "crop_name":  "OILSEEDS YIELD",
+        "yieldd":  "1171.4589"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "85",
+        "fields":{"state_no":  "112",
+        "crop_name":  "PIGEONPEA YIELD",
+        "yieldd":  "1101.6084"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "86",
+        "fields":{"state_no":  "113",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "2370.5124"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "87",
+        "fields":{"state_no":  "113",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "1541.8764"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "88",
+        "fields":{"state_no":  "113",
+        "crop_name":  "KharifSorghum YIELD",
+        "yieldd":  "1471.2883"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "89",
+        "fields":{"state_no":  "113",
+        "crop_name":  "GROUNDNUT YIELD",
+        "yieldd":  "1402.7261"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "90",
+        "fields":{"state_no":  "113",
+        "crop_name":  "SAFFLOWER YIELD",
+        "yieldd":  "1182.5622"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "91",
+        "fields":{"state_no":  "114",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "2344.3237"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "92",
+        "fields":{"state_no":  "114",
+        "crop_name":  "KharifSorghum YIELD",
+        "yieldd":  "1913.091"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "93",
+        "fields":{"state_no":  "114",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "1609.8359"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "94",
+        "fields":{"state_no":  "114",
+        "crop_name":  "GROUNDNUT YIELD",
+        "yieldd":  "1438.4815"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "95",
+        "fields":{"state_no":  "114",
+        "crop_name":  "SOYABEAN YIELD",
+        "yieldd":  "1426.634"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "96",
+        "fields":{"state_no":  "115",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "2277.4922"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "97",
+        "fields":{"state_no":  "115",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "1756.707"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "98",
+        "fields":{"state_no":  "115",
+        "crop_name":  "SOYABEAN YIELD",
+        "yieldd":  "1263.6459"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "99",
+        "fields":{"state_no":  "115",
+        "crop_name":  "OILSEEDS YIELD",
+        "yieldd":  "1250.6957"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "100",
+        "fields":{"state_no":  "115",
+        "crop_name":  "CHICKPEA YIELD",
+        "yieldd":  "1134.0143"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "101",
+        "fields":{"state_no":  "116",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "1791.9263"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "102",
+        "fields":{"state_no":  "116",
+        "crop_name":  "GROUNDNUT YIELD",
+        "yieldd":  "1349.4873"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "103",
+        "fields":{"state_no":  "116",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "1223.5424"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "104",
+        "fields":{"state_no":  "116",
+        "crop_name":  "SOYABEAN YIELD",
+        "yieldd":  "1110.1345"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "105",
+        "fields":{"state_no":  "116",
+        "crop_name":  "OILSEEDS YIELD",
+        "yieldd":  "1049.8579"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "106",
+        "fields":{"state_no":  "117",
+        "crop_name":  "GROUNDNUT YIELD",
+        "yieldd":  "1555.2608"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "107",
+        "fields":{"state_no":  "117",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "1514.5331"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "108",
+        "fields":{"state_no":  "117",
+        "crop_name":  "PIGEONPEA YIELD",
+        "yieldd":  "937.4966"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "109",
+        "fields":{"state_no":  "117",
+        "crop_name":  "SOYABEAN YIELD",
+        "yieldd":  "901.9301"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "110",
+        "fields":{"state_no":  "117",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "820"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "111",
+        "fields":{"state_no":  "118",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "2062.5"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "112",
+        "fields":{"state_no":  "118",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "1306.385"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "113",
+        "fields":{"state_no":  "118",
+        "crop_name":  "Rice YIELD",
+        "yieldd":  "1208.7046"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "114",
+        "fields":{"state_no":  "118",
+        "crop_name":  "GROUNDNUT YIELD",
+        "yieldd":  "892.8778"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "115",
+        "fields":{"state_no":  "118",
+        "crop_name":  "KharifSorghum YIELD",
+        "yieldd":  "679.2247"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "116",
+        "fields":{"state_no":  "119",
+        "crop_name":  "MAIZE YIELD",
+        "yieldd":  "2101.001"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "117",
+        "fields":{"state_no":  "119",
+        "crop_name":  "Rice YIELD",
+        "yieldd":  "1463.3241"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "118",
+        "fields":{"state_no":  "119",
+        "crop_name":  "Wheat YIELD",
+        "yieldd":  "1098.6196"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "119",
+        "fields":{"state_no":  "119",
+        "crop_name":  "GROUNDNUT YIELD",
+        "yieldd":  "799"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "120",
+        "fields":{"state_no":  "119",
+        "crop_name":  "PIGEONPEA YIELD",
+        "yieldd":  "711.4168"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "121",
+        "fields":{"state_no":  "120",
+        "crop_name":  "KharifSorghum YIELD",
+        "yieldd":  "1367.5623"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "122",
+        "fields":{"state_no":  "120",
+        "crop_name":  "GROUNDNUT YIELD",
+        "yieldd":  "1215.666667"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "123",
+        "fields":{"state_no":  "120",
+        "crop_name":  "PIGEONPEA YIELD",
+        "yieldd":  "1047.3114"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "124",
+        "fields":{"state_no":  "120",
+        "crop_name":  "SUGARCANE YIELD",
+        "yieldd":  "1020.6"
+    }},
+    {
+        "model":  "newsapp.showAI",
+        "id":  "125",
+        "fields":{"state_no":  "120",
+        "crop_name":  "Rice YIELD",
+        "yieldd":  "946.7012"
+    }}
+]
