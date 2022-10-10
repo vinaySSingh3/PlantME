@@ -1,0 +1,60 @@
+Types,Variable,Units
+Crops,Area,000 ha
+,Production,000 tons
+,Yield,Kg/ha
+Irrigation,Cropwise irrigated area,000 ha
+,Sourcewise irrigated area,000 ha
+,Irrigation intensity,Percentage (%)
+Biophysical,Land use,000 ha
+,Cropping intensity,Percentage (%)
+,Rainfall,Millimetres
+,Soil type,Percentage (%)
+,Length of growing period,Days
+,Normal rainfall,Millimetres
+Inputs,Fertilizer consumption,Tonnes
+,Share in NPK,Percentage (%)
+,Per Ha of NCA,Kg/ha
+,Per Ha of GCA,Kg/ha
+,Wages,Rs/day
+Prices,Farm Harvest Prices (FHP),Rs / quintal(100 kg)
+Census,Population,000 numbers
+,Population density,Persons per sq km
+,Livestock,000 numbers
+,Share in large ruminant,Percentage (%)
+,Share in small ruminant,Percentage (%)
+,Agricultural implements,000 numbers
+,Implements Density,Per 10000 ha
+,Operational holdings (No),000 numbers
+,Operational holdings (Area),000 ha
+,Shares,Percentage (%)
+Livestock products,Milk production,000 tons
+,Meat production,000 kgs
+,Egg production,Lakh numbers
+Infrastructure,Markets,Numbers
+,Density,Per 10000 sq km
+,Roads,Kilometers
+,Density,Per sq km
+,Education,Numbers
+,Health,Numbers
+,Banks,Numbers
+,Post offices,Numbers
+,Veterinary institutes,Numbers
+Domestic product,GDP (current and constant),million rupees
+,Sector Shares,Percentage (%)
+Environment (pixel generated from MAP),Actual Evapotranspiration(Act),Millimetres
+,Climate Water deficit(Def),Millimetres
+,Potential Evapotranspiration(Pet),Millimetres
+,Precipitation - rainfall(Ppt),Millimetres
+,Surface Runoff (Q),Millimetres
+,Temperature maximum(Tmax),Centigrades
+,Temperature minimum(Tmin),Centigrades
+,Wind Speed(Ws),MS-1
+Horticulture crops,Area,000 ha
+,Production,000 tons
+Other variables,Season wise Area,000ha
+,Production,000tons
+,Warehouses and Godowns,Numbers in Nos, Capacity in tons
+,Cold storage,Numbers in Nos, Capacity in tons
+,Groundwater table,Groungwater level in meters
+,credit,000 rupees
+,Amenities (population census data),Percentage(%)

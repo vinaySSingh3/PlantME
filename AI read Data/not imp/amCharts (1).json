@@ -1,0 +1,418 @@
+[
+  {
+    "year": "1966",
+    "Maharashtra - Ahmednagar": "11.0",
+    "Maharashtra - Aurangabad": "5.0",
+    "Maharashtra - Beed": "10.0",
+    "Maharashtra - Akola": "7.0",
+    "Maharashtra - Amarawati": "8.0"
+  },
+  {
+    "year": "1967",
+    "Maharashtra - Ahmednagar": "9.0",
+    "Maharashtra - Aurangabad": "5.0",
+    "Maharashtra - Beed": "8.0",
+    "Maharashtra - Akola": "8.0",
+    "Maharashtra - Amarawati": "12.0"
+  },
+  {
+    "year": "1968",
+    "Maharashtra - Ahmednagar": "7.9",
+    "Maharashtra - Aurangabad": "5.4",
+    "Maharashtra - Beed": "7.4",
+    "Maharashtra - Akola": "7.8",
+    "Maharashtra - Amarawati": "11.7"
+  },
+  {
+    "year": "1969",
+    "Maharashtra - Ahmednagar": "7.5",
+    "Maharashtra - Aurangabad": "5.3",
+    "Maharashtra - Beed": "8.3",
+    "Maharashtra - Akola": "7.7",
+    "Maharashtra - Amarawati": "11.5"
+  },
+  {
+    "year": "1970",
+    "Maharashtra - Ahmednagar": "7.1",
+    "Maharashtra - Aurangabad": "5.4",
+    "Maharashtra - Beed": "6.9",
+    "Maharashtra - Akola": "8.1",
+    "Maharashtra - Amarawati": "9.1"
+  },
+  {
+    "year": "1971",
+    "Maharashtra - Ahmednagar": "7.1",
+    "Maharashtra - Aurangabad": "3.7",
+    "Maharashtra - Beed": "2.5",
+    "Maharashtra - Akola": "7.4",
+    "Maharashtra - Amarawati": "9.4"
+  },
+  {
+    "year": "1972",
+    "Maharashtra - Ahmednagar": "5.8",
+    "Maharashtra - Aurangabad": "3.7",
+    "Maharashtra - Beed": "8.1",
+    "Maharashtra - Akola": "8.0",
+    "Maharashtra - Amarawati": "9.5"
+  },
+  {
+    "year": "1973",
+    "Maharashtra - Ahmednagar": "5.8",
+    "Maharashtra - Aurangabad": "5.3",
+    "Maharashtra - Beed": "5.5",
+    "Maharashtra - Akola": "7.9",
+    "Maharashtra - Amarawati": "13.0"
+  },
+  {
+    "year": "1974",
+    "Maharashtra - Ahmednagar": "7.0",
+    "Maharashtra - Aurangabad": "5.7",
+    "Maharashtra - Beed": "5.5",
+    "Maharashtra - Akola": "7.5",
+    "Maharashtra - Amarawati": "13.8"
+  },
+  {
+    "year": "1975",
+    "Maharashtra - Ahmednagar": "8.3",
+    "Maharashtra - Aurangabad": "6.5",
+    "Maharashtra - Beed": "10.5",
+    "Maharashtra - Akola": "8.0",
+    "Maharashtra - Amarawati": "13.7"
+  },
+  {
+    "year": "1976",
+    "Maharashtra - Ahmednagar": "13.0",
+    "Maharashtra - Aurangabad": "7.7",
+    "Maharashtra - Beed": "12.2",
+    "Maharashtra - Akola": "8.4",
+    "Maharashtra - Amarawati": "15.0"
+  },
+  {
+    "year": "1977",
+    "Maharashtra - Ahmednagar": "9.7",
+    "Maharashtra - Aurangabad": "9.0",
+    "Maharashtra - Beed": "11.0",
+    "Maharashtra - Akola": "8.4",
+    "Maharashtra - Amarawati": "12.7"
+  },
+  {
+    "year": "1978",
+    "Maharashtra - Ahmednagar": "8.8",
+    "Maharashtra - Aurangabad": "7.3",
+    "Maharashtra - Beed": "10.1",
+    "Maharashtra - Akola": "8.1",
+    "Maharashtra - Amarawati": "13.5"
+  },
+  {
+    "year": "1979",
+    "Maharashtra - Ahmednagar": "8.1",
+    "Maharashtra - Aurangabad": "8.6",
+    "Maharashtra - Beed": "7.9",
+    "Maharashtra - Akola": "8.7",
+    "Maharashtra - Amarawati": "11.4"
+  },
+  {
+    "year": "1980",
+    "Maharashtra - Ahmednagar": "8.2",
+    "Maharashtra - Aurangabad": "8.6",
+    "Maharashtra - Beed": "8.4",
+    "Maharashtra - Akola": "8.7",
+    "Maharashtra - Amarawati": "13.1"
+  },
+  {
+    "year": "1981",
+    "Maharashtra - Ahmednagar": "8.0",
+    "Maharashtra - Aurangabad": "9.2",
+    "Maharashtra - Beed": "7.7",
+    "Maharashtra - Akola": "9.0",
+    "Maharashtra - Amarawati": "13.3"
+  },
+  {
+    "year": "1982",
+    "Maharashtra - Ahmednagar": "6.9",
+    "Maharashtra - Aurangabad": "8.5",
+    "Maharashtra - Beed": "7.0",
+    "Maharashtra - Akola": "7.9",
+    "Maharashtra - Amarawati": "13.1"
+  },
+  {
+    "year": "1983",
+    "Maharashtra - Ahmednagar": "6.8",
+    "Maharashtra - Aurangabad": "8.5",
+    "Maharashtra - Beed": "6.4",
+    "Maharashtra - Akola": "7.6",
+    "Maharashtra - Amarawati": "12.3"
+  },
+  {
+    "year": "1984",
+    "Maharashtra - Ahmednagar": "6.4",
+    "Maharashtra - Aurangabad": "8.1",
+    "Maharashtra - Beed": "6.2",
+    "Maharashtra - Akola": "7.3",
+    "Maharashtra - Amarawati": "12.4"
+  },
+  {
+    "year": "1985",
+    "Maharashtra - Ahmednagar": "6.7",
+    "Maharashtra - Aurangabad": "6.5",
+    "Maharashtra - Beed": "6.5",
+    "Maharashtra - Akola": "6.6",
+    "Maharashtra - Amarawati": "13.0"
+  },
+  {
+    "year": "1986",
+    "Maharashtra - Ahmednagar": "7.0",
+    "Maharashtra - Aurangabad": "6.0",
+    "Maharashtra - Beed": "7.0",
+    "Maharashtra - Akola": "6.0",
+    "Maharashtra - Amarawati": "13.0"
+  },
+  {
+    "year": "1987",
+    "Maharashtra - Ahmednagar": "6.0",
+    "Maharashtra - Aurangabad": "5.0",
+    "Maharashtra - Beed": "7.0",
+    "Maharashtra - Akola": "7.0",
+    "Maharashtra - Amarawati": "13.0"
+  },
+  {
+    "year": "1988",
+    "Maharashtra - Ahmednagar": "5.8",
+    "Maharashtra - Aurangabad": "5.5",
+    "Maharashtra - Beed": "7.1",
+    "Maharashtra - Akola": "6.6",
+    "Maharashtra - Amarawati": "14.1"
+  },
+  {
+    "year": "1989",
+    "Maharashtra - Ahmednagar": "6.3",
+    "Maharashtra - Aurangabad": "5.2",
+    "Maharashtra - Beed": "7.1",
+    "Maharashtra - Akola": "7.3",
+    "Maharashtra - Amarawati": "14.1"
+  },
+  {
+    "year": "1990",
+    "Maharashtra - Ahmednagar": "7.5",
+    "Maharashtra - Aurangabad": "4.5",
+    "Maharashtra - Beed": "8.0",
+    "Maharashtra - Akola": "7.0",
+    "Maharashtra - Amarawati": "14.3"
+  },
+  {
+    "year": "1991",
+    "Maharashtra - Ahmednagar": "4.9",
+    "Maharashtra - Aurangabad": "4.7",
+    "Maharashtra - Beed": "8.3",
+    "Maharashtra - Akola": "6.6",
+    "Maharashtra - Amarawati": "13.9"
+  },
+  {
+    "year": "1992",
+    "Maharashtra - Ahmednagar": "8.1",
+    "Maharashtra - Aurangabad": "3.6",
+    "Maharashtra - Beed": "6.1",
+    "Maharashtra - Akola": "5.4",
+    "Maharashtra - Amarawati": "12.7"
+  },
+  {
+    "year": "1993",
+    "Maharashtra - Ahmednagar": "7.6",
+    "Maharashtra - Aurangabad": "3.8",
+    "Maharashtra - Beed": "5.6",
+    "Maharashtra - Akola": "6.3",
+    "Maharashtra - Amarawati": "11.1"
+  },
+  {
+    "year": "1994",
+    "Maharashtra - Ahmednagar": "6.8",
+    "Maharashtra - Aurangabad": "4.5",
+    "Maharashtra - Beed": "5.4",
+    "Maharashtra - Akola": "6.8",
+    "Maharashtra - Amarawati": "8.2"
+  },
+  {
+    "year": "1995",
+    "Maharashtra - Ahmednagar": "5.8",
+    "Maharashtra - Aurangabad": "3.1",
+    "Maharashtra - Beed": "4.7",
+    "Maharashtra - Akola": "4.9",
+    "Maharashtra - Amarawati": "9.9"
+  },
+  {
+    "year": "1996",
+    "Maharashtra - Ahmednagar": "5.7",
+    "Maharashtra - Aurangabad": "3.6",
+    "Maharashtra - Beed": "4.6",
+    "Maharashtra - Akola": "3.3",
+    "Maharashtra - Amarawati": "10.4"
+  },
+  {
+    "year": "1997",
+    "Maharashtra - Ahmednagar": "10.3",
+    "Maharashtra - Aurangabad": "3.5",
+    "Maharashtra - Beed": "5.2",
+    "Maharashtra - Akola": "3.3",
+    "Maharashtra - Amarawati": "9.0"
+  },
+  {
+    "year": "1998",
+    "Maharashtra - Ahmednagar": "5.6",
+    "Maharashtra - Aurangabad": "2.3",
+    "Maharashtra - Beed": "3.5",
+    "Maharashtra - Akola": "3.0",
+    "Maharashtra - Amarawati": "8.7"
+  },
+  {
+    "year": "1999",
+    "Maharashtra - Ahmednagar": "5.7",
+    "Maharashtra - Aurangabad": "2.2",
+    "Maharashtra - Beed": "3.8",
+    "Maharashtra - Akola": "1.9",
+    "Maharashtra - Amarawati": "8.8"
+  },
+  {
+    "year": "2000",
+    "Maharashtra - Ahmednagar": "5.5",
+    "Maharashtra - Aurangabad": "1.8",
+    "Maharashtra - Beed": "3.4",
+    "Maharashtra - Akola": "2.0",
+    "Maharashtra - Amarawati": "8.9"
+  },
+  {
+    "year": "2001",
+    "Maharashtra - Ahmednagar": "7.3",
+    "Maharashtra - Aurangabad": "1.1",
+    "Maharashtra - Beed": "2.4",
+    "Maharashtra - Akola": "1.3",
+    "Maharashtra - Amarawati": "10.3"
+  },
+  {
+    "year": "2002",
+    "Maharashtra - Ahmednagar": "7.4",
+    "Maharashtra - Aurangabad": "1.2",
+    "Maharashtra - Beed": "2.4",
+    "Maharashtra - Akola": "1.1",
+    "Maharashtra - Amarawati": "11.0"
+  },
+  {
+    "year": "2003",
+    "Maharashtra - Ahmednagar": "7.6",
+    "Maharashtra - Aurangabad": "1.3",
+    "Maharashtra - Beed": "2.5",
+    "Maharashtra - Akola": "0.9",
+    "Maharashtra - Amarawati": "10.2"
+  },
+  {
+    "year": "2004",
+    "Maharashtra - Ahmednagar": "8.0",
+    "Maharashtra - Aurangabad": "0.8",
+    "Maharashtra - Beed": "2.3",
+    "Maharashtra - Akola": "0.5",
+    "Maharashtra - Amarawati": "9.6"
+  },
+  {
+    "year": "2005",
+    "Maharashtra - Ahmednagar": "8.0",
+    "Maharashtra - Aurangabad": "0.1",
+    "Maharashtra - Beed": "2.2",
+    "Maharashtra - Akola": "0.3",
+    "Maharashtra - Amarawati": "10.2"
+  },
+  {
+    "year": "2006",
+    "Maharashtra - Ahmednagar": "8.4",
+    "Maharashtra - Aurangabad": "0.1",
+    "Maharashtra - Beed": "2.0",
+    "Maharashtra - Akola": "0.2",
+    "Maharashtra - Amarawati": "8.5"
+  },
+  {
+    "year": "2007",
+    "Maharashtra - Ahmednagar": "8.6",
+    "Maharashtra - Aurangabad": null,
+    "Maharashtra - Beed": "1.5",
+    "Maharashtra - Akola": "0.1",
+    "Maharashtra - Amarawati": "6.3"
+  },
+  {
+    "year": "2008",
+    "Maharashtra - Ahmednagar": "9.3",
+    "Maharashtra - Aurangabad": null,
+    "Maharashtra - Beed": "1.0",
+    "Maharashtra - Akola": "0.1",
+    "Maharashtra - Amarawati": "4.5"
+  },
+  {
+    "year": "2009",
+    "Maharashtra - Ahmednagar": "7.4",
+    "Maharashtra - Aurangabad": null,
+    "Maharashtra - Beed": "0.6",
+    "Maharashtra - Akola": "0.1",
+    "Maharashtra - Amarawati": "4.3"
+  },
+  {
+    "year": "2010",
+    "Maharashtra - Ahmednagar": "7.5",
+    "Maharashtra - Aurangabad": "0.01",
+    "Maharashtra - Beed": "0.8",
+    "Maharashtra - Akola": null,
+    "Maharashtra - Amarawati": "3.8"
+  },
+  {
+    "year": "2011",
+    "Maharashtra - Ahmednagar": "7.9",
+    "Maharashtra - Aurangabad": null,
+    "Maharashtra - Beed": "0.6",
+    "Maharashtra - Akola": "0.2",
+    "Maharashtra - Amarawati": "4.1"
+  },
+  {
+    "year": "2012",
+    "Maharashtra - Ahmednagar": "7.5",
+    "Maharashtra - Aurangabad": null,
+    "Maharashtra - Beed": "0.6",
+    "Maharashtra - Akola": null,
+    "Maharashtra - Amarawati": "3.8"
+  },
+  {
+    "year": "2013",
+    "Maharashtra - Ahmednagar": "7.9",
+    "Maharashtra - Aurangabad": null,
+    "Maharashtra - Beed": "0.5",
+    "Maharashtra - Akola": null,
+    "Maharashtra - Amarawati": "4.7"
+  },
+  {
+    "year": "2014",
+    "Maharashtra - Ahmednagar": "8.6",
+    "Maharashtra - Aurangabad": null,
+    "Maharashtra - Beed": "0.4",
+    "Maharashtra - Akola": null,
+    "Maharashtra - Amarawati": "5.3"
+  },
+  {
+    "year": "2015",
+    "Maharashtra - Ahmednagar": "14.0",
+    "Maharashtra - Aurangabad": null,
+    "Maharashtra - Beed": "0.3",
+    "Maharashtra - Akola": null,
+    "Maharashtra - Amarawati": "5.6"
+  },
+  {
+    "year": "2016",
+    "Maharashtra - Ahmednagar": "15.0",
+    "Maharashtra - Aurangabad": "6.5",
+    "Maharashtra - Beed": "0.1",
+    "Maharashtra - Akola": null,
+    "Maharashtra - Amarawati": "6.9"
+  },
+  {
+    "year": "2017",
+    "Maharashtra - Ahmednagar": "16.2",
+    "Maharashtra - Aurangabad": null,
+    "Maharashtra - Beed": "0.06",
+    "Maharashtra - Akola": null,
+    "Maharashtra - Amarawati": "8.9"
+  }
+]

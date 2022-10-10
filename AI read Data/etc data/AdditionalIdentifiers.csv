@@ -1,0 +1,28 @@
+Types,Variable,Units
+SAT/NONSTAT,Code,Description
+,1,SAT
+,2,NON-SAT
+AEZ,Code,Description
+,1,Humid (LGP>180 days)
+,2,Semi-Arid Temperate (LGP:75-179 days,Temp<=180 C)
+,3,Semi-Arid Tropic (LGP:75-179 days,Temp>=180 C)
+,4,Arid (LGP:0-74 days)
+AEZ-NATP,Code,Description
+,1,Arid
+,2,Coastal
+,3,Hill &Mountain
+,4,Irrigated
+,5,Rainfed
+AEZ-NATP-PS,Code,Description
+,1.1,Pearl Millet
+,1.2,Pearl Millet-Oilseeds
+,2.1,Rice-Groundnut-Fruits
+,2.2,Coconut-Rice-Fruits
+,3.1,Horticulture
+,3.2,Rice-Maize-Fruits
+,4.1,Rice-Wheat
+,4.2,Cotton-Wheat
+,4.3,Sugarcane-Wheat
+,5.1,Rice
+,5.2,Coarse cereal
+,5.3,Oilseed

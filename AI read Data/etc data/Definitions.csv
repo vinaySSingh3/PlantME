@@ -1,0 +1,36 @@
+Abbreviation,Item Description,Units
+GCA,Gross Cropped Area is the total cropped area,000 ha
+NCA,Net Cropped Area is the net sown area,000 ha
+GDP,Gross Domestic Product,Million Rupees
+Primary Sector GDP,GDP from Agriculture & Allied Sector,Million Rupees
+Secondary Sector,GDP from industry and manufacturing sector,Million Rupees
+Tertiary Sector,GDP from services sector,Million Rupees
+PPMRKT,Number of principal markets (Regulated markets with market Committee office),No’s
+PSMRKT,Number of sub markets (with out a market Committee office),No’s
+FEM_SAW,State Female Wage rate,Rupees
+MALE_SAW,State Male Wage rate,Rupees
+Soil Type,Dominant soil types in the district (could be more than one type),
+LGP,Length of Growing Period,Days
+Ppt,Condensation of atmospheric water vapour that falls under gravity(rainfall),Celsius
+Tmin,The lowest temperature attained at a specific location during a specified period,Centigrade
+Tmax,The highest temperature reported for a given location during a specified period,Centigrade
+Q,When rain or snow falls onto the earth, it starts moving along the slopes. A portion of it seeps into the soil and to replenish Earth's groundwater. Most of it flows downhill as runoff when rainfall intensity is more than the seepage or infiltration,mm
+Pet,Potential Evapotranspiration is the amount of water evaporated (both as transpiration and evaporation from the soil) from an area of continuous, uniform vegetation that covers the whole ground and that is well supplied with water,mm
+Aet,Actual Evapotranspiration is the actual amount of water lost to evapotranspiration from the soil– plant continuum by an actively growing plant or crop. Water loss through evapotranspiration depends upon plant and soil characteristics, and upon the amount of available water in the soil,mm
+Def,Climate Water deficit the cumulative difference between the potential evapotranspiration and precipitation during a specified period in which the precipitation is the smaller of the two,mm
+Ws,Wind Speed is the rate at which air is moving horizontally past a given point,ms-1
+Formation of new states,Since 1966 four new states were created (Uttarakhand, jharkhand, Chattisgarh and Telangana). Districts belonging to these states are shown under the new state name since the year of their formation,
+Apportioned database,The data base is divided into two sets. apportioned and unapportioned. Apportioned data set Includes all districts in 20 states formed on or before 1966 . Data of all the districts formed after 1966 is given back to respective parent districts from which they were formed and removed from the file. Apportioned data files not available for some files like season wise APY, APY under horticulture crops, environment data, nutrition data, credit data, warehouse and cold storage data and data on night lights. For more details on this and number of districts in the 1966 database please refer to the detailed data documentation file for apportioned data,
+Unapportioned database,Includes all districts in 20 states as on 2015-16. Unapportioned data available from 1990 onwards. For some files the data are from 2000/ 2005 (like horticulture data,credit etc). for some it is at one point in time like for nutrition and health data, warehouse, cold storages etc). For more details on this and for a list of districts in this database please refer to the detailed data documentation file for unapportioned data,
+Kharif,Rainy season,
+Rabi,Post-rainy season,
+Summer,Pre Monsoon,
+AEZ,AgroEcological Zone,codes
+NATP,National Agricultural Technology Project,
+AEZ_NATP_PS,Agro Ecological Zone_NATP_Production System,codes
+INDC_STC,India Census State Code (2011 Census),
+INDCDISTC,India Census District Code (2011 Census),codes
+SAT,Semi-Arid Tropics,codes
+Non SAT,Exclusive of Semi-Arid Tropics,codes
+-1,For missing data, data not reported, or data not applicable, in such cases -1 is shown in the cell. For more details on the use of "-1"please refer to the detailed data documentation files,
+Data source,All data are from Government sources (central and state) available from on-line sources, published publications, and through personally meeting the concerned officials. For the environment variables the data were generated from pixel level data Terra Climate. The data sources for the variables in different files are given in the detailed data documentation files,
